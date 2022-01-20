@@ -1,4 +1,4 @@
-module higker/goconvey-example
+module vijaypandey11/goconvey-sample
 
 go 1.16
 
